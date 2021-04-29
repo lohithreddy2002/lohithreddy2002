@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <details>
 
-<img src = "https://github-readme-stats-six-smoky.vercel.app/api?username=lohithreddy2002&show_icons=true&theme=radical"/>
+![Lohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=lohithreddy2002&show_icons=true&theme=radical)
 
 <img src = "https://github-readme-stats-six-smoky.vercel.app/api/top-langs/?username=lohithreddy2002&langs_count=5"/>
 </details>

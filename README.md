@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Android
 - 🌱 I’m currently learning ... Android and Kotlin
 - 👯 I’m looking to collaborate on ... Android development

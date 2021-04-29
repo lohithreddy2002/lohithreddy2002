@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Mail
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... Everything is fun 😀
--->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lohithreddy2002)](https://github.com/anuraghazra/github-readme-stats)

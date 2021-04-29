@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Everything is fun 😀
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-six-smoky.vercel.app/api?username=lohithreddy2002&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats-six-smoky.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)]
+<img src = "https://github-readme-stats-six-smoky.vercel.app/api?username=lohithreddy2002&show_icons=true&theme=radical"/>
+
+[![Top Langs](https://github-readme-stats-six-smoky.vercel.app/api/top-langs/?username=lohithreddy2002&langs_count=5)]

@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... Everything is fun 😀
 
-
+<details>
 
 <img src = "https://github-readme-stats-six-smoky.vercel.app/api?username=lohithreddy2002&show_icons=true&theme=radical"/>
 
-[![Top Langs](https://github-readme-stats-six-smoky.vercel.app/api/top-langs/?username=lohithreddy2002&langs_count=5)]
+<img src = "https://github-readme-stats-six-smoky.vercel.app/api/top-langs/?username=lohithreddy2002&langs_count=5"/>
+</details>

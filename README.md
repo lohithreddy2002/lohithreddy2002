@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Android development
 - 🤔 I’m looking for help with ... Coroutines
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Mail](rocklohithreddy@gmail.com)
+- 📫 How to reach me: ... [Mail](mailto:rocklohithreddy@gmail.com)
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... Everything is fun 😀
 
